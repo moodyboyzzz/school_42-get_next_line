@@ -4,7 +4,7 @@
 
 Make you code a function that returns a line ending with a newline, read from a file descriptor.
 
-## In details
+## In details about project
 
 https://cdn.intra.42.fr/pdf/pdf/41405/en.subject.pdf
 
