@@ -15,7 +15,7 @@ int	get_next_line(int fd, char **line);
 
 ## Usage
 
-Your program must compile with the flag -D BUFFER_SIZE=xx. which will be used as the buffer size for the read calls in your get_next_line.
+Your program must compile with the flag -D BUFFER_SIZE=xx. which will be used as the buffer size for the read calls in your get_next_line. (More in the "In details about project")
 
 ## About the materials used
 
