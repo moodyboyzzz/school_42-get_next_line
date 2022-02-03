@@ -1,8 +1,8 @@
 # get_next_line
 
-## Project goal
+## The aim of this project
 
-Create a function that, each time a file is read, will return 1 line from the given file.
+Make you code a function that returns a line ending with a newline, read from a file descriptor.
 
 ## In details
 
